@@ -1,0 +1,7 @@
+sources:
+  - name: DEMO
+    database: DEMO
+    schema: DEMO_SCHEMA
+    tables:
+      - name: CITI_BIKE_TRIP
+      - name: WEATHER

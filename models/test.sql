@@ -1,0 +1,1 @@
+select * from {{ source('DEMO', 'CITI_BIKE_TRIP') }} limit 10;
